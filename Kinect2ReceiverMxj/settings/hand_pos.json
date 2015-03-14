@@ -1,0 +1,26 @@
+{
+	"pattrstorage" : 	{
+		"name" : "hand_pos",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"_skeleton_feature_extractor::feature" : [ 1 ],
+					"_skeleton_feature_extractor::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor::joint" : [ 8 ],
+					"_skeleton_feature_extractor::length" : [ 3 ],
+					"_skeleton_feature_extractor::userid" : [ 0 ],
+					"_skeleton_feature_extractor[1]::feature" : [ 1 ],
+					"_skeleton_feature_extractor[1]::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor[1]::joint" : [ 18 ],
+					"_skeleton_feature_extractor[1]::length" : [ 3 ],
+					"_skeleton_feature_extractor[1]::userid" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

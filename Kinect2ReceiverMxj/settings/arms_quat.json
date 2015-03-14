@@ -1,0 +1,46 @@
+{
+	"pattrstorage" : 	{
+		"name" : "arms_quat",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"_skeleton_feature_extractor::feature" : [ 4 ],
+					"_skeleton_feature_extractor::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor::joint" : [ 7 ],
+					"_skeleton_feature_extractor::length" : [ 4 ],
+					"_skeleton_feature_extractor::userid" : [ 0 ],
+					"_skeleton_feature_extractor[1]::feature" : [ 4 ],
+					"_skeleton_feature_extractor[1]::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor[1]::joint" : [ 6 ],
+					"_skeleton_feature_extractor[1]::length" : [ 4 ],
+					"_skeleton_feature_extractor[1]::userid" : [ 0 ],
+					"_skeleton_feature_extractor[2]::feature" : [ 4 ],
+					"_skeleton_feature_extractor[2]::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor[2]::joint" : [ 5 ],
+					"_skeleton_feature_extractor[2]::length" : [ 4 ],
+					"_skeleton_feature_extractor[2]::userid" : [ 0 ],
+					"_skeleton_feature_extractor[5]::feature" : [ 4 ],
+					"_skeleton_feature_extractor[5]::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor[5]::joint" : [ 15 ],
+					"_skeleton_feature_extractor[5]::length" : [ 4 ],
+					"_skeleton_feature_extractor[5]::userid" : [ 0 ],
+					"_skeleton_feature_extractor[4]::feature" : [ 4 ],
+					"_skeleton_feature_extractor[4]::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor[4]::joint" : [ 16 ],
+					"_skeleton_feature_extractor[4]::length" : [ 4 ],
+					"_skeleton_feature_extractor[4]::userid" : [ 0 ],
+					"_skeleton_feature_extractor[3]::feature" : [ 4 ],
+					"_skeleton_feature_extractor[3]::graphtoggle" : [ 1 ],
+					"_skeleton_feature_extractor[3]::joint" : [ 17 ],
+					"_skeleton_feature_extractor[3]::length" : [ 4 ],
+					"_skeleton_feature_extractor[3]::userid" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
